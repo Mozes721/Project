@@ -1,5 +1,6 @@
 import pygame
 import time
+import random
 
 pygame.init()
 display_width = 800
@@ -8,6 +9,8 @@ display_height = 600
 black = (0, 0, 0)
 white = (255, 255, 255)
 red = (255, 0, 0)
+block_color = (53,115,255)
+
 gameDisplay = pygame.display.set_mode((display_width,display_height))
 pygame.display.set_caption("Racer!")
 clock = pygame.time.Clock()
@@ -15,6 +18,21 @@ clock = pygame.time.Clock()
 
 
 carImg = pygame.image.load('/Users/richard/Desktop/Projects/pygame/racer/racecar.png')
+
+
+
+def things(thingx, thingy, thingw, thingh, color):
+    pygame.draw.rect(gameDisplay, color, [thingx, thingy, thingw, thingh])
+
+
+
+
+
+
+def things_dodged(count):
+    font = pygame.font.SysFont(None, 25)
+    text = font.render("Dodged: " + str(count), True, black)
+    gameDisplay.blit(text, (0, 0))
 
 def car(x,y):
     gameDisplay.blit(carImg, (x, y))
@@ -43,6 +61,15 @@ def game_loop():
 
     x_change = 0
 
+    thing_startx = random.randrange(0, display_width)
+    thing_starty = -600
+    thing_speed = 4
+    thing_width = 100
+    thing_height = 100
+    dodged = 0
+
+    thinkCount = 1
+    object = 1
     car_width = 73
 
     gameExit = False
@@ -66,10 +93,27 @@ def game_loop():
         x += x_change
 
         gameDisplay.fill(white)
+        #things(thingx, thingy, thingw, thingh, color)
+        things(thing_startx, thing_starty, thing_width, thing_height, block_color)
+        thing_starty += thing_speed
         car(x,y)
+        things_dodged(dodged)
+
 
         if x > display_width - car_width or x < 0:
             crash()
+        if thing_starty > display_height:
+            thing_starty = 0 - thing_height
+            thing_startx = random.randrange(0, display_width)
+            dodged += 1
+            thing_speed += 1
+            thing_width += (dodged + 1.2)
+            thinkCount += 1
+
+        if y < thing_starty + thing_height:
+            if x > thing_startx and x < thing_startx + thing_width or x + car_width > thing_startx and x + car_width < thing_startx + thing_width:
+                print('x crossover')
+                crash()
 
         pygame.display.update()
         clock.tick(60)
@@ -77,4 +121,3 @@ def game_loop():
 game_loop()
 pygame.quit()
 quit()
-

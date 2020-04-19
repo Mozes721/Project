@@ -1,7 +1,7 @@
 from django.db import models
 from datetime import datetime
 # Create your models here.
-#Create table turtorial 
+#Create table turtorial
 class Tutorial(models.Model):
     tutorial_title = models.CharField(max_length=200)
     tutorial_content = models.TextField()
