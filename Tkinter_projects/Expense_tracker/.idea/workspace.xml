@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e94b95b6-d943-4823-bf8a-cb775c176108" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Database_storage/Car_salon/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Database_storage/Car_salon/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Age_Calculation/backend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../data_analysis_visualisation/UFC_scrape/fighter_pie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../data_analysis_visualisation/UFC_scrape/rankings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pygame_projects/Break_out/ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pygame_projects/Break_out/brick.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pygame_projects/Hangman/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pygame_projects/Hangman/hangman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pygame_projects/Hangman/words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pygame_projects/Pong_game/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pygame_projects/Pong_game/ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pygame_projects/Pong_game/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pygame_projects/Pong_game/paddle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pygame_projects/Pong_game/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pygame_projects/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pygame_projects/racer/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/Projects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/main/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/main/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/main/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/main/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/main/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/main/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/main/migrations/0002_auto_20200327_1858.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/main/migrations/0003_auto_20200327_1933.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/main/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/main/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/main/static/main/css/materialize.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/main/static/main/css/materialize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/main/templates/main/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/main/templates/main/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/main/templates/main/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/main/templates/main/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/main/templates/main/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/main/templates/main/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/main/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/main/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/main/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/main/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/mysite/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/mysite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/mysite/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Flask_Django/Django/mysite/mysite/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pygame/racer/pgAdmin 4.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pygame/racer/pgAdmin 4_files/alertify.noanimation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pygame/racer/pgAdmin 4_files/app.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pygame/racer/pgAdmin 4_files/backgrid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pygame/racer/pgAdmin 4_files/browser.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pygame/racer/pgAdmin 4_files/current_user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pygame/racer/pgAdmin 4_files/endpoints.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pygame/racer/pgAdmin 4_files/gettext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pygame/racer/pgAdmin 4_files/messages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pygame/racer/pgAdmin 4_files/pgadmin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pygame/racer/pgAdmin 4_files/pgadmin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pygame/racer/pgAdmin 4_files/pgadmin_commons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pygame/racer/pgAdmin 4_files/require.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pygame/racer/pgAdmin 4_files/saved_resource.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pygame/racer/pgAdmin 4_files/sqleditor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pygame/racer/pgAdmin 4_files/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pygame/racer/pgAdmin 4_files/supported_servers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pygame/racer/pgAdmin 4_files/translations.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pygame/racer/pgAdmin 4_files/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pygame/racer/pgAdmin 4_files/vendor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pygame/racer/pgAdmin 4_files/webcabin.overrides(1).css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Database_storage/Bank_account/bankaccount.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pygame/racer/pgAdmin 4_files/webcabin.overrides.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Database_storage/Car_salon/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pygame/racer/racecar.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../pygame_projects/racer/racecar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pygame/racer/racer_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../pygame_projects/racer/racer_start.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1e8mC02Ze59VisfY8607ClXBcUg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e94b95b6-d943-4823-bf8a-cb775c176108" name="Default Changelist" comment="" />
+      <created>1593711462558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593711462558</updated>
+    </task>
+    <servers />
+  </component>
+</project>
