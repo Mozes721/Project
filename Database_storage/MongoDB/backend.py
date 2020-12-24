@@ -1,7 +1,7 @@
 import pymongo
 import sys
 
-client = pymongo.MongoClient("mongodb+srv://Richard:Asebomu12@cluster0-xth9g.mongodb.net/Richard?retryWrites=true&w=majority")
+client = pymongo.MongoClient("mongodb+srv://Richard:Password@cluster0-xth9g.mongodb.net/Richard?retryWrites=true&w=majority")
 
 db = client.get_database('total_records')
 
